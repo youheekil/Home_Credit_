@@ -1,0 +1,9 @@
+import pandas as pd
+import os
+os.chdir(r'/Users/youheekil/Desktop/projects/home_credit_')
+
+train = pd.read_csv("train.csv")
+test = pd.read_csv("test.csv")
+lb = pd.read_csv("loan_before.csv")
+
+lb.columns
