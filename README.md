@@ -20,8 +20,8 @@ Check [Explainable AI](https://www.cc.gatech.edu/~alanwags/DLAI2016/(Gunning)%20
 These case, categorical dependent variable is only with two categories, yes (1) or no (0). 
 
 For approaching cateogorical variables, we can classify categorical variables/features into two major types :
-> Nominal variables: have two or more categoreis which do not associated with order. 
-> Ordinal variables: have "levels" or categories with a particular order associated such as low, medium, high. 
+- Nominal variables: have two or more categoreis which do not associated with order. 
+- Ordinal variables: have "levels" or categories with a particular order associated such as low, medium, high. 
 When the target is **skewed**, Area Under the ROC Curve (AUC) or ROC curve will the best metric for this skewed binary classification problem. 
 
 To answer the question *Is this A or B*, in this case, problems can be defined as
