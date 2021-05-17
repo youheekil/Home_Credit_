@@ -44,7 +44,7 @@ We are going to apply `Explainable Artificial Intelligence (XAI)` which refers t
 ### 4. Check the relationship with the most influential five variables
 
 ----
-This dataset has the following collumns:
+This dataset has the following columns :
 * SK_ID_CURR
 * TARGET
 * CODE_GENDER
