@@ -42,3 +42,32 @@ We are going to apply `Explainable Artificial Intelligence (XAI)` which refers t
 ### 2. Modelling
 ### 3. `shap value`
 ### 4. Check the relationship with the most influential five variables
+
+----
+This dataset has the following collumns:
+* SK_ID_CURR
+* TARGET
+* CODE_GENDER
+* FLAG_OWN_CAR
+* FLAG_OWN_REALTY
+* CNT_CHILDREN
+* AMT_INCOME_TOTAL
+* AMT_CREDIT
+* AMT_ANNUITY
+* NAME_TYPE_SUITE
+* NAME_INCOME_TYPE
+* NAME_EDUCATION_TYPE
+* NAME_HOUSING_TYPE
+* REGION_POPULATION_RELATIVE
+* DAYS_BIRTH
+* DAYS_EMPLOYED
+* DAYS_ID_PUBLISH
+* OWN_CAR_AGE
+* CNT_FAM_MEMBERS
+* HOUR_APPR_PROCESS_START
+* ORGANIZATION_TYPE
+* EXT_SOURCE_1
+* EXT_SOURCE_2
+* EXT_SOURCE_3
+* DAYS_LAST_PHONE_CHANGE
+* AMT_REQ_CREDIT_BUREAU_YEAR
